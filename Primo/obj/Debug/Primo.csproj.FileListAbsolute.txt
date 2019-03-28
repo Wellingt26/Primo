@@ -1,0 +1,10 @@
+C:\Users\Wellington\source\repos\Primo\Primo\bin\Debug\Primo.exe.config
+C:\Users\Wellington\source\repos\Primo\Primo\bin\Debug\Primo.exe
+C:\Users\Wellington\source\repos\Primo\Primo\bin\Debug\Primo.pdb
+C:\Users\Wellington\source\repos\Primo\Primo\obj\Debug\Primo.csprojAssemblyReference.cache
+C:\Users\Wellington\source\repos\Primo\Primo\obj\Debug\Primo.frmPrincipal.resources
+C:\Users\Wellington\source\repos\Primo\Primo\obj\Debug\Primo.Properties.Resources.resources
+C:\Users\Wellington\source\repos\Primo\Primo\obj\Debug\Primo.csproj.GenerateResource.cache
+C:\Users\Wellington\source\repos\Primo\Primo\obj\Debug\Primo.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\source\repos\Primo\Primo\obj\Debug\Primo.exe
+C:\Users\Wellington\source\repos\Primo\Primo\obj\Debug\Primo.pdb
